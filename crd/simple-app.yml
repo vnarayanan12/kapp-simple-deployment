@@ -16,7 +16,7 @@ spec:
   # Where is the app coming from?
   fetch:
   - git:
-      url: https://github.com/vnarayanan12/kapp-simple-deployment
+      url: git@github.com:vnarayanan12/kapp-simple-deployment.git
       ref: origin/main
 
       # We have a directory, named 'app', in the root of our repo.
