@@ -6,7 +6,7 @@ apiVersion: kappctrl.k14s.io/v1alpha1
 # We're defining an app...
 kind: App
 metadata:
-  name: simple-app-test
+  name: viji-app
   namespace: default
 spec:
 
