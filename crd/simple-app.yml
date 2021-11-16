@@ -6,7 +6,7 @@ apiVersion: kappctrl.k14s.io/v1alpha1
 # We're defining an app...
 kind: App
 metadata:
-  name: exposed-simple-app
+  name: simple-app-test
   namespace: default
 spec:
 
